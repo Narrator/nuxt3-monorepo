@@ -1,7 +1,7 @@
 lockfileVersion: '6.0'
 
 overrides:
-  nitropack: npm:nitropack-nightly
+  nitropack: npm:nitropack-nightly@2.8.0-28335617.0f38eb6
 
 importers:
 
@@ -934,7 +934,7 @@ packages:
       launch-editor: 2.6.1
       local-pkg: 0.5.0
       magicast: 0.3.2
-      nitropack: /nitropack-nightly@2.8.0-28335575.0437fd0
+      nitropack: /nitropack-nightly@2.8.0-28335617.0f38eb6
       nuxt: 3.8.1(vite@5.0.0)
       nypm: 0.3.3
       ofetch: 1.3.3
@@ -3468,8 +3468,8 @@ packages:
     resolution: {integrity: sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==}
     engines: {node: '>= 0.6'}
 
-  /nitropack-nightly@2.8.0-28335575.0437fd0:
-    resolution: {integrity: sha512-P+4a71glsfvaqVhEOY6vz6qT3PDiTg1zA/jGczH5jVkO1snypjnHi9kctXS1nExiuyHtyZ+yN1vv/9/wEBvBuw==}
+  /nitropack-nightly@2.8.0-28335617.0f38eb6:
+    resolution: {integrity: sha512-nXwGPwndQbxcUkv9wky6VEUY/xWQsNFkCaTPgdX4+fRz6wBmMLl68y0eXoeVz1klRIGGyCsLX5IID2DDMScAbQ==}
     engines: {node: ^16.11.0 || >=17.0.0}
     hasBin: true
     peerDependencies:
@@ -3763,7 +3763,7 @@ packages:
       knitwork: 1.0.0
       magic-string: 0.30.5
       mlly: 1.4.2
-      nitropack: /nitropack-nightly@2.8.0-28335575.0437fd0
+      nitropack: /nitropack-nightly@2.8.0-28335617.0f38eb6
       nuxi: 3.9.1
       nypm: 0.3.3
       ofetch: 1.3.3

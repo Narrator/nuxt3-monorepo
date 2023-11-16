@@ -1,6 +1,6 @@
 {
   "private": true,
   "resolutions": {
-    "nitropack": "npm:nitropack-nightly"
+    "nitropack": "npm:nitropack-nightly@2.8.0-28335617.0f38eb6"
   }
 }
