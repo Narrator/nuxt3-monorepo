@@ -1,0 +1,8 @@
+{
+  "name": "nuxt3-layer",
+  "version": "1.0.0",
+  "main": "nuxt.config.ts",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}

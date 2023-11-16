@@ -9,9 +9,9 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.11"
+    "nuxt": "^3.8.1"
   },
   "dependencies": {
-    "nuxt3-websites-package": "workspace:^1.0.0"
+    "nuxt3-layer": "workspace:^1.0.0"
   }
 }
