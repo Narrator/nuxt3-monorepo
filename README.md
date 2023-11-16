@@ -1,24 +1,31 @@
 # Scalable Nuxt 3 Monorepos with PNPM Workspaces
-READ MORE ABOUT THE ARTICLE FROM THIS LINK:
-[Vue School Article](https://vueschool.io/articles/vuejs-tutorials/scalable-nuxt-3-monorepos-with-pnpm-workspaces/)
 
+Read more:
 
-install packages:
+- [Nuxt Website](https://nuxt.com/)
+- [Nuxt Layers](https://nuxt.com/docs/getting-started/layers)
+- [Vue School Article](https://vueschool.io/articles/vuejs-tutorials/scalable-nuxt-3-monorepos-with-pnpm-workspaces/) (**Outdated!**)
+
+Install packages:
+
 ```shell
 pnpm i
 ```
 
-start dev mode:
+Start dev mode:
+
 ```shell
 pnpm run -r dev
 ```
 
-build applications:
+Build applications:
+
 ```shell
 pnpm run -r build
 ```
 
-start specific application
+Start specific application
+
 ```shell
 pnpm --filter website1 run dev
 pnpm --filter website2 run dev
