@@ -10,7 +10,7 @@ applications:
           commands:
             - pnpm --filter website1 build
       artifacts:
-        baseDirectory: apps/website1/.amplify-hosting
+        baseDirectory: apps/website1/dist
         files:
           - '**/*'
       buildPath: /
